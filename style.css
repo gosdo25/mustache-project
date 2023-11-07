@@ -1,0 +1,15 @@
+.heading{
+    font-size:25px;
+}
+.btn-success:hover{
+background-color: blueviolet;
+}
+canvas{
+    animation-name:Lauren ;
+    animation-duration:4s ;
+    animation-iteration-count: infinite;
+}
+@keyframes Lauren{
+    from{box-shadow:2px 2px 40px yellow;}
+    to{box-shadow:2px 2px 40px chartreuse;}
+}
